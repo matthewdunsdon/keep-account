@@ -1,0 +1,13 @@
+[package]
+name = "keep_accont"
+version = "0.1.0"
+edition = "2021"
+authors = ["Matthew Dunsdon"]
+description = "A tool to keep account data organised"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/matthewdunsdon/keep-account"
+categories = ["command-line-utilities", "finance"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
