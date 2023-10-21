@@ -1,3 +1,7 @@
+use keep_accont::Application;
+
+
 fn main() {
-    println!("Hello, keep account is here to help!");
+    let app = Application::default();
+    app.run()
 }
